@@ -1,0 +1,20 @@
+{ 
+	"amountOfoptions": 7,
+	"noBothMode": false,
+	"pollMode": "text",
+	"pollTitle": {
+		"de" : "Bewertung von Ideen"
+	},
+	"pollDescription": {
+		"de" : "Welche Idee gefällt Dir am besten?"
+	},
+	"options": [	
+				"WLAN to GO: Mobiles, akkubetriebenes WLAN für Veranstaltungen, inkl. Auf- und Abbau zur Tagesmiete", 
+				"Easy Mobility 2.0, inkl. Ortung, Virtual Desktops (Citrix, RDS) und Cloud Wlan",
+				"Beratungspaket für Krankenhäuser im Rahmen des IT-Sicherheitsgesetzes",
+				"Euginy",
+				"Valesko",
+				"Valmano",
+				"Valentino"
+			]
+}

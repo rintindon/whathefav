@@ -1,0 +1,83 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+html, body{
+	height:95% !important;
+	padding-right:25px;
+	padding-left:25px;
+ }
+
+.hidden{
+	display:none;
+}
+	
+#voteReport, #votingSection{
+	height:90% !important;
+}
+ 
+.icon-block {
+  padding: 0 15px;
+}
+
+button.material-icons{
+	vertical-align:middle;
+	line-height: 4.8em;
+}
+
+.material-icons {
+	font-size: inherit;
+	display: inline-flex;
+    vertical-align: middle;
+}
+
+#langContainer{
+	margin-top:50px;
+	z-index:100;
+	background-color:white;
+}
+
+#howlong{
+	height:1em;
+	font-size:0.5em;
+	z-index:100;
+	text-align:center;
+}
+
+#buttonContainer{
+	position:fixed;
+	padding-top:25px;
+	padding-bottom:5px;
+	width:100%;
+	background:white;
+	z-index:5;
+	margin-bottom:0px !important;
+	bottom:0px;
+	left:0px;
+}
+
+.smallButton{
+	padding-right: 5px !important;
+	padding-left: 5px !important;
+}
+
+button.bCont{
+	margin-right:15px !important;
+}
+
+.languageSelection{
+	right:5px;
+}
+
+.languageSelection>button{
+	margin-right:10px;
+}
+
+.hide-on-med-and-up .iLikeBoth {
+	padding-right:5px !important;
+	padding-left:5px !important;
+}

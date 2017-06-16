@@ -1,0 +1,28 @@
+{ 
+	"amountOfoptions": 10,
+	"noBothMode": false,
+	"pollMode": "text",
+	"pollTitle": {
+		"de" : "Dein Lieblingsfilm?",
+		"it" : "Il tuo film preferito?",
+		"en" : "Your favorite movie?"
+	},
+	"pollDescription": {
+		"de" : "Wie gefallen Dir die folgenden Filme? Wähle jeweils eins oder beide...",
+		"it" : "Quali di questi film, sono i tuoi preferiti? Scegli uno dei due o entrambi...",
+		"en" : "Which of these movies are your favorite ones? Choose one or both displayed options"
+	},
+	"options": [	
+				"Tron Legacy", 
+				"Batman Begins",
+				"Matrix I",
+				"Back to the Future I",
+				"The Dark Knight Rises",
+				"Back to the Future III",
+				"Matrix II",
+				"Matrix III",
+				"Back to the Future II",
+				"The Dark Knight",
+				"Tron"
+			]
+}

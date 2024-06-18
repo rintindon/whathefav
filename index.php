@@ -336,7 +336,7 @@
 							</div>
 						</div>
 						<div class="row">
-						<div class="g-recaptcha" data-sitekey="6LdexhATAAAAAApRGKO2kBlbGn1tDApDa_y_Wz2M" data-callback="activateSaveButton"></div>
+						<div class="g-recaptcha" data-sitekey="XXXXXXXXXXXXXXXXXXXXXXX" data-callback="activateSaveButton"></div>
 						<script src='https://www.google.com/recaptcha/api.js'></script>
 						<button class="waves-effect waves-green waves-light btn btn-large disabled" id="creationSave"><i class="material-icons left">save</i><span data-lang="save-poll"></span></button>
 						</div>
